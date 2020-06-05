@@ -1,2 +1,2 @@
-# burroughs
+# BURROUGHS
 Generative text in BASIC
